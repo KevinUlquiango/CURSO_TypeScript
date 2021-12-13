@@ -1,6 +1,6 @@
-const saludar = () => {
+function saludar() {
   console.log("saludar Kevin1");
-};
+}
 saludar();
 
 const saludo: string = "Hola Mundo desde TypeScipt";
