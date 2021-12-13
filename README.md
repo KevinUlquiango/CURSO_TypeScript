@@ -3,5 +3,5 @@
 > **Generar packJson**
 > `tsc -init`
 >
-> **Generar auto traducció**
+> **Generar auto traducción a javaScript**
 `tsc -w`
